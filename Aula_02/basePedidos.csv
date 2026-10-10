@@ -1,0 +1,50 @@
+﻿IDPedido;DataPedido;Regiao;Estado;Vendedor;IDProduto;Item;Unidades;PrecoUnitario
+95;05/01/2025;Sudeste;São Paulo;Alan;FOG-200;Fogão;20;1.278,67
+95;05/01/2025;Sudeste;São Paulo;Alan;MIC-100;Microondas;46;579,68
+113;16/01/2025;Nordeste;Ceará;Tobias;FOG-200;Fogão;15;1.311,45
+620;23/01/2025;Sudeste;São Paulo;Pedro;MIC-100;Microondas;50;579,68
+1120;01/02/2025;Sudeste;São Paulo;Smith;MIC-100;Microondas;17;565,2
+1426;09/02/2025;Sudeste;São Paulo;Alex;FOG-200;Fogão;36;1.278,67
+1487;18/02/2025;Nordeste;Ceará;Tobias;GEL-300;Geladeira;50;3.834,16
+1487;18/02/2025;Nordeste;Ceará;Tobias;MIC-100;Microondas;4;565,2
+2334;26/02/2025;Sudeste;São Paulo;Alan;FOG-200;Fogão;27;1.278,67
+2355;07/03/2025;Sul;Paraná;Mauricio;MIC-100;Microondas;7;555,01
+2532;15/03/2025;Sul;Santa Catarina;Mauricio;FOG-200;Fogão;56;1.255,62
+2541;24/03/2025;Sudeste;São Paulo;Alex;GEL-300;Geladeira;50;3.834,16
+2633;01/04/2025;Nordeste;Pernambuco;Tobias;MIC-100;Microondas;60;604,65
+2761;10/04/2025;Sudeste;São Paulo;Raquel;FOG-200;Fogão;66;1.367,94
+2866;18/04/2025;Sudeste;São Paulo;Raquel;FOG-200;Fogão;75;1.367,94
+3040;27/04/2025;Nordeste;Bahia;Nadia;FOG-200;Fogão;60;1.367,94
+3040;27/04/2025;Nordeste;Bahia;Nadia;MIC-100;Microondas;30;596,66
+4376;05/05/2025;Sudeste;São Paulo;Alex;FOG-200;Fogão;80;1.349,85
+4886;14/05/2025;Sudeste;São Paulo;Alan;FOG-200;Fogão;53;1.349,85
+5158;14/05/2025;Sul;Rio Grande do Sul;Thomas;FOG-200;Fogão;32;1.349,85
+5199;31/05/2025;Sudeste;São Paulo;Alan;MIC-100;Microondas;20;596,66
+5227;08/06/2025;Nordeste;Rio Grande do Norte;Tobias;MIC-100;Microondas;60;581,21
+5664;10/06/2025;Sudeste;São Paulo;Pedro;LAV-400;Lavadora;5;1.755,67
+5789;11/06/2025;Sudeste;São Paulo;Carlos;FOG-200;Fogão;25;1.314,90
+5801;11/06/2025;Nordeste;Pernambuco;Tobias;GEL-300;Geladeira;62;4.015,17
+6053;11/07/2025;Nordeste;Paraíba;Nadia;MIC-100;Microondas;29;586,24
+6125;19/07/2025;Nordeste;Bahia;Tania;MIC-100;Microondas;10;586,24
+6300;20/07/2025;Sudeste;Minas Gerais;Carlos;GEL-300;Geladeira;35;4.049,94
+6300;20/07/2025;Sudeste;Minas Gerais;Carlos;LAV-400;Lavadora;3;3.930,69
+6456;22/08/2025;Nordeste;Alagoas;Tobias;FOG-200;Fogão;35;1.287,24
+6493;22/08/2025;Sudeste;Rio de Janeiro;Pedro;GEL-300;Geladeira;42;3.930,69
+6777;24/08/2025;Sul;Santa Catarina;Mauricio;LAV-400;Lavadora;3;3.930,69
+6864;10/09/2025;Sudeste;Rio de Janeiro;Alan;FOG-200;Fogão;7;1.358,40
+6887;10/09/2025;Sudeste;Minas Gerais;Smith;LAV-400;Lavadora;2;1.813,76
+8200;12/09/2025;Nordeste;Pernambuco;Tobias;GEL-300;Geladeira;16;4.148,00
+8883;26/09/2025;Sul;Rio Grande do Sul;Mauricio;FOG-200;Fogão;76;1.358,40
+9038;14/10/2025;Sul;Rio Grande do Sul;Thomas;MIC-100;Microondas;57;605,4
+9188;15/10/2025;Sudeste;Minas Gerais;Carlos;MIC-100;Microondas;28;605,4
+9925;22/10/2025;Nordeste;Sergipe;Tobias;FOG-200;Fogão;64;1.369,63
+10017;31/10/2025;Sudeste;Rio de Janeiro;Raquel;FOG-200;Fogão;14;1.369,63
+10017;31/10/2025;Sudeste;Rio de Janeiro;Raquel;GEL-300;Geladeira;2;4.148,00
+10037;17/11/2025;Sudeste;Rio de Janeiro;Alex;MIC-100;Microondas;11;557,49
+10363;18/11/2025;Nordeste;Bahia;Tania;FOG-200;Fogão;15;1.261,25
+10984;22/11/2025;Sudeste;Minas Gerais;Pedro;GEL-300;Geladeira;66;3.851,33
+12150;14/12/2025;Sudeste;Rio de Janeiro;Smith;FOG-200;Fogão;24;1.277,26
+12225;14/12/2025;Sudeste;Rio de Janeiro;Alex;MIC-100;Microondas;100;564,57
+12294;21/12/2025;Sudeste;Rio de Janeiro;Raquel;MIC-100;Microondas;28;564,57
+12924;29/12/2025;Nordeste;Pernambuco;Tania;GEL-300;Geladeira;74;3.900,23
+12924;29/12/2025;Nordeste;Pernambuco;Tania;MIC-100;Microondas;25;564,57
